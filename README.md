@@ -18,7 +18,7 @@ It helps vendors and market managers understand **which products perform best**,
 | **Total Quantity Sold** | 2.96K total units sold |
 | **Unique Customers** | 29 distinct buyers identified |
 | **Total Vendors** | 9 vendors participated |
-| **Total Booths** | 7 active booths assigned |
+| **Total Booths** | 7 active booths assigned | 
 | **Top Product** | Jalapeño Peppers contributed the most sales |
 | **Top Customer** | Deanna Washington generated the highest purchase volume | 
 
