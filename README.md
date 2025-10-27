@@ -23,7 +23,7 @@ It helps vendors and market managers understand **which products perform best**,
 | **Top Customer** | Deanna Washington generated the highest purchase volume | 
 
 ---
-
+ 
 ## 📈 Dashboard Features
 
 ### 1️⃣ **Sales Dashboard**
