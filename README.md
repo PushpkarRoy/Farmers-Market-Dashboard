@@ -15,7 +15,7 @@ It helps vendors and market managers understand **which products perform best**,
 | Metric | Description |
 |--------|--------------|
 | **Total Sales** | ₹8.67K overall sales achieved |
-| **Total Quantity Sold** | 2.96K total units sold |
+| **Total Quantity Sold** | 2.96K total units sold | 
 | **Unique Customers** | 29 distinct buyers identified | 
 | **Total Vendors** | 9 vendors participated |
 | **Total Booths** | 7 active booths assigned | 
