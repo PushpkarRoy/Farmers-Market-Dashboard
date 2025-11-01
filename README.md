@@ -21,7 +21,7 @@ It helps vendors and market managers understand **which products perform best**,
 | **Total Booths** | 7 active booths assigned | 
 | **Top Product** | Jalapeño Peppers contributed the most sales | 
 | **Top Customer** | Deanna Washington generated the highest purchase volume | 
-
+ 
 ---
 
 ## 📈 Dashboard Features
