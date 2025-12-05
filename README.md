@@ -11,7 +11,7 @@ It helps vendors and market managers understand **which products perform best**,
 ---
 
 ## 🎯 Key Insights
-
+ 
 | Metric | Description |
 |--------|--------------| 
 | **Total Sales** | ₹8.67K overall sales achieved |
