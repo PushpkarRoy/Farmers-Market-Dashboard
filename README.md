@@ -12,7 +12,7 @@ It helps vendors and market managers understand **which products perform best**,
 
 ## 🎯 Key Insights
  
-| Metric | Description |
+| Metric | Description | 
 |--------|--------------| 
 | **Total Sales** | ₹8.67K overall sales achieved |
 | **Total Quantity Sold** | 2.96K total units sold |    
