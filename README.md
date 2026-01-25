@@ -9,7 +9,7 @@ The **Farmers Market Dashboard** provides a clear, interactive overview of marke
 It helps vendors and market managers understand **which products perform best**, **who their top customers are**, and **how sales vary by location and time**.
 
 ---
-
+  
 ## 🎯 Key Insights
  
 | Metric | Description | 
